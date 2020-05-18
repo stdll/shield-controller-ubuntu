@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Shield Controller
+Comment=Starts the driver for the shield controller
+Exec=sudo {path}/shieldctrl.sh
+Icon={path}/shield-controller.png
+Terminal=true
